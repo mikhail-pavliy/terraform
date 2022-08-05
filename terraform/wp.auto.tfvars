@@ -1,4 +1,4 @@
-yc_cloud  = "b1g8mmm7tlkhf0vuf38t"
-yc_folder = "b1g0sumoa9bmdieiucl3"
-yc_token = "AQAAAAAirckBAATuwf7ckFpvZUwogwOK-fmBqMw"
+yc_cloud  = "b1g8m*********************"
+yc_folder = "b1g0sum******************"
+yc_token = "AQAAA**********************
 db_password = "password"
