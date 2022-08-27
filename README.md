@@ -13,6 +13,7 @@ mikhail@mikhail-GL703VD:~/Desktop/otus/03-terraform$ sudo apt install git
 ```ruby
 mikhail@mikhail-GL703VD:~/Desktop/otus/03-terraform$ sudo apt-get update && sudo apt-get install -y gnupg software-properties-common
 ```
+
 ```ruby
 mikhail@mikhail-GL703VD:~/Desktop/otus/03-terraform$ wget -O- https://apt.releases.hashicorp.com/gpg | \
     gpg --dearmor | \
